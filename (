@@ -1,0 +1,9 @@
+**Hava Durumu**
+
+```js
+
+$nomention 
+
+$argsCheck[>;HAVA DURUMUNA BAKACAĞIN BİR ŞEHİR İSMİ YAZ!]
+
+$image[https://wttr.in/$replaceText[$message; ;+;-1].png?m]] ```
